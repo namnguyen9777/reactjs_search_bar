@@ -5,7 +5,7 @@ You can view my deployment of this application [here](https://reactjs-searching.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
-To view an implementation of this project that uses multipe subscriptions to multiple chatrooms, check out this [repo](https://github.com/rubyhcm/reactjs_search_bar)
+To view an implementation of this project, check out this [repo](https://github.com/rubyhcm/reactjs_search_bar)
 
 ### Running Locally
 
