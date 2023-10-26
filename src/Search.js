@@ -22,10 +22,7 @@ export default function SearchEngine() {
     setIsLoading(true);
     event.preventDefault();
     if (city.length > 0) {
-      let url = `https://devfinding.com/api/v1/jobs/search?query=${encodeURIComponent(
-        city
-      )}`;
-
+      let url = `https://devfinding.com/api/v1/jobs/search?query=${city}`
       axios
         .get(url)
         .then(displayInfo)
